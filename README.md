@@ -1,6 +1,6 @@
 # Brain Stroke Prediction
 
-![StrokePrediction](Brain Stroke Prediction Project LaTex/images/brain%20stroke.jpg)
+![Brain Stroke](Brain%20Stroke%20Prediction%20Project%20LaTex/images/brain%20stroke.jpg)
 
 ## Overview
 This university project aims to predict brain stroke occurrences using a publicly available dataset. Our objective is twofold: to replicate the methodologies and findings of the research paper ["Stroke Risk Prediction with Machine Learning Techniques"](https://doi.org/10.3390/s22134670) and to implement an alternative version using best practices in machine learning and data analysis.
